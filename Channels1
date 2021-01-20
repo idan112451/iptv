@@ -9,6 +9,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunkl
 https://nertov.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=60f2065b8a1343b2eac9754b29a972011ba55a32-8af6fc4c70fc87154a090555d0c4708e-1611179888-1611169088
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", teen Nick
 https://melron.xyz/teennick/tracks-v1a1/mono.m3u8?token=25a2bb8bb676432a9b645d5f1b78582dcd513cce-ce4afa8eba07cf271ae5401460b6f877-1611180036-1611169236
+#EXTINF:0 type="video" channelId="-1" group="sport"kids size="Medium",zoom IL
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Disney
 https://nertov.xyz/disney/tracks-v1a1/mono.m3u8?token=f52e39118187b6500cba98f59dd82e42c350bad7-3f6268f6f95f978b4161752eb8864cb3-1611180286-1611169486
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Channel
@@ -24,47 +25,39 @@ https://monicaa.xyz/hotcinema3b/tracks-v1a1/2021/01/20/19/14/50-05600.ts?token=3
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT C4
 https://monicaa.xyz/hotcinema4b/tracks-v1a1/2021/01/20/19/17/07-05600.ts?token=b68b6adc6edd880161c90f7be80b3d2bf830c46b-3d50af6766014ed31e4df3e7e3f773c3-1611180744-1611169944
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT 8
-https://nertov.xyz/hot8b/tracks-v1a1/mono.m3u8?token=a9d428560df3c7b7b5df5bf96a2498913c628aab-8845d42976edef7975e2529a2088b622-1611148787-1611137987
+https://monicaa.xyz/hot8b/index.m3u8?token=09ad6188b9e7942b77611175c2a701432848582f-21b4cce6214013c243da0553f6a8ad21-1611181336-1611170536
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT 3
 https://monicaa.xyz/hot3b/tracks-v1a1/mono.m3u8?token=fbdeb812e882d8d31db582c39ea00b9629fb63a6-cb0f43e7f0e22d9d2982cbb79ba7e422-1611149334-1611138534
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Zone
-https://getloti.xyz/hotzoneb/tracks-v1a1/2021/01/20/10/39/12-05040.ts?token=db5d071ad71aafcbc22dc2fb5f3472c4614780fb-496ee32149b1d13eafe1154bb461097b-1611149662-1611138862
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT HBO
+#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", ערוץ הוט בידור ישראלי
+https://notaryz.xyz/hotbidurb/index.m3u8?token=709fd443d6bf19164c8cbbecff51f947765aa03b-c1c970c1cdecdec74e4ef05542fa4ba3-1611181395-1611170595#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT HBO
 https://colita.xyz/hothbob/tracks-v1a1/mono.m3u8?token=14f9a9d5edbf34231084fca30fe13a5fdfbae3af-007112412c39d9f6b48390ad63bc7903-1611149706-1611138906
 #EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", IL YES
-https://colita.xyz/yes5/index.m3u8?token=8ace33d944fb581d220fb7d60375fb10deefc40e-71c75616bca9669e40c89c3ba80757fe-1611180862-1611170062#EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", KIDSYES
-https://colita.xyz/yes4/tracks-v1a1/mono.m3u8?token=ec1a539f1184b7f8a5455b00466ded80920ca98c-faee1f8b2d112f203778818cd2a9ea1e-1611160264-1611149464
+https://colita.xyz/yes5/index.m3u8?token=8ace33d944fb581d220fb7d60375fb10deefc40e-71c75616bca9669e40c89c3ba80757fe-1611180862-1611170062
+#EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", KIDSYES
+https://lofico.xyz/yes4/tracks-v1a1/2021/01/20/19/20/32-12001.ts?token=e6e21a4cde169f44b61455880484658243dcf8b0-6de1b425c6690e0125a8fb89a2dec4d5-1611180977-1611170177
 #EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", yes Comedy
 https://lofico.xyz/yes3/tracks-v1a1/mono.m3u8?token=1da9c64bccd35d7f12aff2f905dce85182454b6b-2d02058eef99c28ca737afa02955ecc3-1611164178-1611153378
 #EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", yes Drama
-https://melron.xyz/yes2/index.m3u8?token=eccc22973ade872e8e9b80dc7ba147caa688dd34-0abc4053f37398466df3eca77f16c18f-1611164315-1611153515
+https://pendor.xyz/yes2/index.m3u8?token=13099c9023efe7766c7a1a8035cb40dd5b0d23ba-24f813538f59e6e7a08ae372ea1526ce-1611181146-1611170346
 #EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", yes Action
-https://morfag.xyz/yes1/tracks-v1a1/2021/01/20/14/45/25-12000.ts?token=08d5d4953f528b98e0e426be08c0ea1ebf468a87-f39a67a999f5a36e92602b7287f66f2f-1611164412-1611153612
+https://sportyiz.xyz/yes1/tracks-v1a1/mono.m3u8?token=2c69898ea171d6b289ecbca47299160b80fde9b6-52648cd0a7c15b3091dd2a1bce8e42ae-1611181098-1611170298
 #EXTINF:0 type="video" channelId="-1" group="HOT" audio-track="eng" aspect-ratio="16:9" size="Medium", 26
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", CBS Reality Channel
-https://bolzak.xyz/cbsreality/tracks-v1a1/2021/01/20/10/43/06-10000.ts?token=12ba58118c28d9c13ee27be5b05bf0f365551a3b-abc3b044e0cb242cbdf185241bff8f7f-1611149895-1611139095
 #EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 1
-https://lofico.xyz/sport1/tracks-v1a1/mono.m3u8?token=7c6a0f2d84363ba345e2f332283ddc63bbae139b-28e1c1fed1446d38baa79218f7aa6852-1611150727-1611139927
+https://notaryz.xyz/sport1/index.m3u8?token=abf3d5c7045d13556781350a935d63085ec83bad-9bd7a851019dc3b76f1eabcb075e151a-1611181688-1611170888
 #EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 2
-https://korty.xyz/sport2/tracks-v1a1/mono.m3u8?token=8c4828c2f8499b4a260614947e4145f2e4933fd4-1bce95619dccdef2bcc20e7c347c8145-1611150811-1611140011
+https://monicaa.xyz/sport2/tracks-v1a1/mono.m3u8?token=2f5b8bc3f0a1136994c516dda2b9d30063d451cd-87021525c35d166a0ce7b9a472266243-1611181784-1611170984
 #EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 3
-https://melron.xyz/sport3/tracks-v1a1/mono.m3u8?token=70fbc4e4e55b14561380b1660f6171f99905592c-e30c5eb4722df75b29c7df91b48ca171-1611160330-1611149530
+https://notaryz.xyz/sport3/tracks-v1a1/mono.m3u8?token=534ab8faba663c997671abfb056a5612d18a6d61-12adb741e5a170a559684a93c9b32670-1611181865-1611171065
 #EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 4
-https://colita.xyz/sport4/tracks-v1a1/mono.m3u8?token=ffaa8c1b413c8fe702055e66ef463966a565af8d-9382f7e49c7ebb3187f7c9a9aa8b8ee8-1611150920-1611140120
+https://nertov.xyz/sport4/index.m3u8?token=f6a5bb8ebe73ba202aa42334410c8a5bfc41351d-e4891a874f0479a96698a35a97e4bbfa-1611181952-1611171152
 #EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 5
-https://notaryz.xyz/sport5/tracks-v1a1/2021/01/20/11/00/55-10000.ts?token=61d44487015c91cb083ac8a26f531a952f96db23-4714a36867539187b655207ae3725be0-1611150958-1611140158
-#EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 5 PLUS
-https://colita.xyz/sport5plus/tracks-v1a1/mono.m3u8?token=666a450c9420a8d7cb6b27fa12f2445858f166aa-0ba9ffcde831c11204afa526204ea350-1611151009-1611140209
+https://melron.xyz/sport5/tracks-v1a1/mono.m3u8?token=f9429820a3d1f4c1018a94f5e77e189942c50cd7-7732065281e5a34d66638b70501e6563-1611181985-1611171185
 #EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 5 LIVE
-https://getloti.xyz/sport5live/tracks-v1a1/mono.m3u8?token=52ba1b68bb194bc2755ca7d4109dd7e6c9c104d0-ed9bafdaf197cdfc12d6bc391e4954f4-1611151057-1611140257
+https://notaryz.xyz/sport5live/index.m3u8?token=48ba6b6a8ac4681a938e4970048db738cc6ee08e-d06a3fbfffe65e0d9d941ca09d650678-1611182152-1611171352
 #EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 5 STARS
 https://monicaa.xyz/sport5stars/tracks-v1a1/2021/01/20/11/03/32-01400.ts?token=e66d189e9665d294e9c5ff4c03021c3291261896-2f45ca16cac7f1ccdee688c1ee49206f-1611151093-1611140293
-#EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 5 GOLD
-https://colita.xyz/sport5gold/tracks-v1a1/2021/01/20/11/04/08-10000.ts?token=01251b0698601e41a2a6e8978b325e22162c0af0-adee0b291574f9899946647e297c9a0f-1611151151-1611140351
 #EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport ONE 1
-https://korty.xyz/one/tracks-v1a1/mono.m3u8?token=36cb9d6a6ec1269676dc2741a012c94fdcd11d60-6caf5e69bba2a633122637086456f628-1611151228-1611140428
+https://nertov.xyz/one/index.m3u8?token=3f9b2491efac06be75bd6037965a2c987cc4e41b-37979ec945a1a815db0f173fd843fb1f-1611182455-1611171655
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", MTV IL
-https://getloti.xyz/mtv/tracks-v1a1/mono.m3u8?token=94bf3238947fef26a96891c43164fb9977e5c8bb-dce4cacd7754db5c7438ae806593d015-1611151451-1611140651
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Knesset 99
-https://contact.gostreaming.tv/Knesset/myStream/chunklist_w1226976616.m3u8
+https://korty.xyz/mtv/tracks-v1a1/mono.m3u8?token=9c35b4588df438f49664b2832e1e77d1b82c0f4b-06e6c3e9af5905fa4ef4e03d88cac89b-1611182575-1611171775
