@@ -6,11 +6,12 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 #EXTINF:0 type="video" channelId="-1" group="KIDS" audio-track="eng" aspect-ratio="16:9" size="Medium", כאן חינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Nickelodeon
-https://getloti.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=191a863412ca165fd659e3e6185dfb5378581fca-eed1888273b78e66fd1d9eacc3ad89b9-1611146255-1611135455
+https://getloti.xyz/nickelodeonb/tracks-v1a1/2021/01/20/13/24/34-07200.ts?token=1810be06516cece6b1c53064f124bf6852eeebc7-ea6627ec4a6a2255260ebb109879dd3e-1611159563-1611148763
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", teen Nick
-https://notaryz.xyz/teennick/tracks-v1a1/mono.m3u8?token=b4917273a6347a8b040d7841517e0e5272264c4b-c5bf5fe5074c5e24f3ed13dc8be79b7e-1611146401-1611135601
+https://colita.xyz/teennick/tracks-v1a1/mono.m3u8?token=0043d3a558654e10f779b261a0a058377d79e7bf-207319c5b649d6f979545d7e8460e6e8-1611159116-1611148316
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", zoom IL
-https://colita.xyz/zoom/tracks-v1a1/mono.m3u8?token=e29563478c6130b4e00df332603327721ace4d5a-f7d6178df1171233b2961ff2cfb984e7-1611146455-1611135655
+https://korty.xyz/zoom/tracks-v1a1/mono.m3u8?token=fea5baae2e28c12797a88c8e5f26378005b5f408-84a737469aae3623b4b573b45eeee075-1611159151-1611148351
+https://pendor.xyz/disney/tracks-v1a1/mono.m3u8?token=d5b02c221e1e20262cd9e0b0fe0922d980c22a8d-5c437b7d9ac5b9e83662e2dd6c1284ac-1611159216-1611148416
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Disney
 https://nertov.xyz/disney/tracks-v1a1/mono.m3u8?token=5e0fc2cede593c2917e55cf60cb3ce3e98aa87e8-7797fa5ade6e211d1734cc20fc8e681c-1611146497-1611135697
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Channel
@@ -42,9 +43,9 @@ https://bolzak.xyz/hotcomedycentralb/tracks-v1a1/2021/01/20/10/40/52-10000.ts?to
 #EXTINF:0 type="video" channelId="-1" size="Medium", Hot reality channel
 https://korty.xyz/hotrealb/tracks-v1a1/2021/01/20/10/45/07-07200.ts?token=e58c145bbad8a8fbb4e5753f42b9d8ac84a2973a-6968d802bce800d698b09a10176bd612-1611150022-1611139222
 #EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", IL YES
-https://pendor.xyz/yes5/tracks-v1a1/mono.m3u8?token=c61f3a079360289850ed3221c9ec720d7fd215d1-5cd8b51ddc1995d60d167fb1b2af223f-1611147156-1611136356
+https://nertov.xyz/yes5/tracks-v1a1/mono.m3u8?token=d327413c2a80f4d4d37a6d6968bac10a35deefdb-9fa0a7cc12cf2f7a55f2f0995632cbc2-1611159265-1611148465
 #EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", KIDSYES
-https://nertov.xyz/yes4/tracks-v1a1/mono.m3u8?token=747bdb0ca1b40685a887e296236b7ec2079a7993-4e2f826036b2ff98a5e2c1bbd2ff2172-1611147287-1611136487
+https://pendor.xyz/yes4/index.m3u8?token=c1b95c3ce4b193c04291367b7c8e9e7603b1512f-5a78a1be4337f862d7e71034231aed2a-1611159351-1611148551
 #EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", yes Comedy
 https://korty.xyz/yescomedy/tracks-v1a1/mono.m3u8?token=72318f79007091418c4641f7f25a8bfeca20b8a9-c1b3a4dc3667f2bda3c94c20909f75d9-1611149417-1611138617
 #EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", yes Drama
