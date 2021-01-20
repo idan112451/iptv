@@ -8,11 +8,11 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunkl
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Nickelodeon
 https://morfag.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=4a528fd697b9775342aa7b99b29453a80f459a38-11d3bb4ac20a70b8ed8f0d7c53beed43-1611157164-1611146364
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", teen Nick
-https://notaryz.xyz/teennick/tracks-v1a1/mono.m3u8?token=b4917273a6347a8b040d7841517e0e5272264c4b-c5bf5fe5074c5e24f3ed13dc8be79b7e-1611146401-1611135601
+https://pizkek.xyz/teennick/tracks-v1a1/mono.m3u8?token=814d6ef10881e53981aa58dbf27d7dd414fc0bbd-1559c88d9939f0cb19ea1a02760dc033-1611151683-1611140883
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", zoom IL
-https://colita.xyz/zoom/tracks-v1a1/mono.m3u8?token=e29563478c6130b4e00df332603327721ace4d5a-f7d6178df1171233b2961ff2cfb984e7-1611146455-1611135655
+https://beltos.xyz/zoom/tracks-v1a1/mono.m3u8?token=46e7bc330ce1f8641a2a325b31de2b62db3a3b36-4d4cb0307c46166970a077be563b63d8-1611157681-1611146881
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Disney
-https://nertov.xyz/disney/tracks-v1a1/mono.m3u8?token=5e0fc2cede593c2917e55cf60cb3ce3e98aa87e8-7797fa5ade6e211d1734cc20fc8e681c-1611146497-1611135697
+https://beltos.xyz/disney/tracks-v1a1/mono.m3u8?token=06c82e13942818bd610d671b061cc0ef5f78bc97-fb20e56de018e5814386c934c33a6e05-1611157905-1611147105
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Channel
 https://lofico.xyz/viva/tracks-v1a1/mono.m3u8?token=52d22207c2066f9015f2a265b08b8523877fb7e2-a340f02e433539a550f29ab9ee1c6d80-1611150223-1611139423
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Plus channel
@@ -59,5 +59,4 @@ https://bolzak.xyz/cbsreality/tracks-v1a1/2021/01/20/10/43/06-10000.ts?token=12b
 https://getloti.xyz/mtv/tracks-v1a1/mono.m3u8?token=94bf3238947fef26a96891c43164fb9977e5c8bb-dce4cacd7754db5c7438ae806593d015-1611151451-1611140651
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Knesset 99
 https://contact.gostreaming.tv/Knesset/myStream/chunklist_w1226976616.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Teen nick 2
-https://pizkek.xyz/teennick/tracks-v1a1/mono.m3u8?token=814d6ef10881e53981aa58dbf27d7dd414fc0bbd-1559c88d9939f0cb19ea1a02760dc033-1611151683-1611140883
+
