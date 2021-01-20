@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0 type="video" channelId="-1" audio-track="eng" aspect-ratio="16:9" size="Medium", רשת 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+#EXTINF:0 type="video" channelId="-1" audio-track="eng" aspect-ratio="16:9" size="Medium", כאן חינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" size="Medium", Nickelodeon
+https://getloti.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=191a863412ca165fd659e3e6185dfb5378581fca-eed1888273b78e66fd1d9eacc3ad89b9-1611146255-1611135455
+#EXTINF:0 type="video" channelId="-1" size="Medium", teen Nick
+https://notaryz.xyz/teennick/tracks-v1a1/mono.m3u8?token=b4917273a6347a8b040d7841517e0e5272264c4b-c5bf5fe5074c5e24f3ed13dc8be79b7e-1611146401-1611135601
+#EXTINF:0 type="video" channelId="-1" size="Medium", zoom IL
+https://colita.xyz/zoom/tracks-v1a1/mono.m3u8?token=e29563478c6130b4e00df332603327721ace4d5a-f7d6178df1171233b2961ff2cfb984e7-1611146455-1611135655
+#EXTINF:0 type="video" channelId="-1" size="Medium", Disney
+https://nertov.xyz/disney/tracks-v1a1/mono.m3u8?token=5e0fc2cede593c2917e55cf60cb3ce3e98aa87e8-7797fa5ade6e211d1734cc20fc8e681c-1611146497-1611135697
+#EXTINF:0 type="video" channelId="-1" size="Medium", IL YES
+https://pendor.xyz/yes5/tracks-v1a1/mono.m3u8?token=c61f3a079360289850ed3221c9ec720d7fd215d1-5cd8b51ddc1995d60d167fb1b2af223f-1611147156-1611136356
+#EXTINF:0 type="video" channelId="-1" size="Medium", KIDSYES
+https://nertov.xyz/yes4/tracks-v1a1/mono.m3u8?token=747bdb0ca1b40685a887e296236b7ec2079a7993-4e2f826036b2ff98a5e2c1bbd2ff2172-1611147287-1611136487
+#EXTINF:0 type="video" channelId="-1" size="Medium", Viva Channel
+https://getloti.xyz/viva/tracks-v1a1/mono.m3u8?token=58b79360c924af4c031d09c865434c370569585b-2901e737203fc4779f46e2bd7467da4a-1611129679-1611118879
+#EXTINF:0 type="video" channelId="-1" size="Medium", Hot reality channel
+https://morfag.xyz/hotrealb/tracks-v1a1/mono.m3u8?token=e4d3942941cbd54ea850c14df3b1e9ea4548bd19-3bf58e90ef26754d85d7bf0c8ea28ae4-1611129768-1611118968
+#EXTINF:0 type="video" channelId="-1" size="Medium", HOT C1
+https://getloti.xyz/hotcinema1b/tracks-v1a1/mono.m3u8?token=b15bdade516b8194ba0b7b625b22c098233afae7-3b8a1cdb47eb46218816feb8eb56ac20-1611146715-1611135915
+#EXTINF:0 type="video" channelId="-1" size="Medium", HOT C2
+https://getloti.xyz/hotcinema2b/tracks-v1a1/mono.m3u8?token=24cf85f09e5a6a08a7296ae1e4582ea629342d80-d40459428f9bf746c18fc08bb3a58f84-1611146644-1611135844
+#EXTINF:0 type="video" channelId="-1" size="Medium", HOT C3
+	https://sportyiz.xyz/hotcinema3b/tracks-v1a1/mono.m3u8?token=8ccaeff7d44ef079b3416d51554b5fd464fa9f18-b678f8a36b10872b78031af40b851a96-1611146590-1611135790
+#EXTINF:0 type="video" channelId="-1" size="Medium", HOT C4
+https://beltos.xyz/hotcinema4b/tracks-v1a1/mono.m3u8?token=b100b5a1db980ba73758bbcc2a9660e521f5f365-e35ae96f314f0bb639c2a72c48fc1dc5-1611146764-1611135964
+#EXTINF:0 type="video" channelId="-1" audio-track="eng" aspect-ratio="16:9" size="Medium", האח הגדול ערוץ 26
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
