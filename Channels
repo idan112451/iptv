@@ -6,12 +6,11 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 #EXTINF:0 type="video" channelId="-1" group="KIDS" audio-track="eng" aspect-ratio="16:9" size="Medium", כאן חינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Nickelodeon
-https://pendor.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=a9535a9a76a617f34b2cf921577ddehttps://korty.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=3b4b05bf966bb0cacc8fb6f4ca65c8b497d14d57-c5e6bb3d0421f81b4fc22e3fdb27405b-1611270522-1611259722
-4c57aa1cd-2b1425266cfcb02c0d7c8e09ff2497db-1611243083-1611232283
+https://getloti.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=f9776dcb66d94c5dda234d9c25fb7afcba1f2af5-fb61067cb3b67944a41bd29aa9ae4b1e-1611271028-1611260228
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", teen Nick
-	https://nertov.xyz/teennick/tracks-v1a1/mono.m3u8?token=5460875c9731246993d6def0087cc393f25604fd-1434f2fb15a26ee16806fda61c46584c-1611270899-1611260099
+https://nertov.xyz/teennick/tracks-v1a1/mono.m3u8?token=5460875c9731246993d6def0087cc393f25604fd-1434f2fb15a26ee16806fda61c46584c-1611270899-1611260099
   #EXTINF:0 type="video" channelId="-1" group="sport"kids size="Medium", zoom IL
-https://morfag.xyz/zoom/tracks-v1a1/2021/01/21/20/20/23-05800.ts?token=5091d9dd8dc8d9b91532e951163da8c7bb2b9554-51b8d213e404ee9368980eea8c4be6b4-1611270934-1611260134
+https://pendor.xyz/zoom/tracks-v1a1/mono.m3u8?token=d2dd7b1bb9fc39c58e7b159a91652182135cb3d5-b00d375eaeb3f8625eec4854c189d37e-1611271210-1611260410
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Disney
 https://pendor.xyz/disney/tracks-v1a1/mono.m3u8?token=48a10cf476354ea48dddb51aea69e97877b67777-9a8ef596ac026d86023a493445ae1c87-1611250466-1611239666
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Channel
