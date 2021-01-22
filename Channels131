@@ -9,7 +9,7 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 #EXTINF:0 type="video" channelId="-1" group="KIDS" audio-track="eng" aspect-ratio="16:9" size="Medium", כאן חינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Nickeloden
-https://pendor.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=37c967e95ff5ec8d52aa20130d7131404702aa38-67325600126e6eeca82466e8c75cbdc5-1611283716-1611272916
+https://pendor.xyz/nickelodeonb/tracks-v1a1/2021/01/22/12/05/50-07200.ts?token=ca57df27de51cc827ddb198d31572c17a7a33c2f-feca927bd0aab63373fe5789770eb8f3-1611327666-1611316866
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", teen Nick
 http://bolzak.xyz/teennick/tracks-v1a1/mono.m3u8?token=e34fef1d099e1e1a1b43770da1737ced4f15cbb7-8964ddff3ae13620b45dd8264893caf7-1611327598-1611316798
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", ZOOM IL
