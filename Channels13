@@ -8,19 +8,12 @@ https://pendor.xyz/keshet12/tracks-v1a1/mono.m3u8?token=fed570c4048adf3c616516cb
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:0 type="video" channelId="-1" group="KIDS" audio-track="eng" aspect-ratio="16:9" size="Medium", כאן חינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Nickelode
-https://lofico.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=2206d7937839615228aae56b830dd66e0cbe3c87-40d8a84d4d87edd35dec84a41f0da45c-1611327261-1611316461
-https://colita.xyz/nickelodeonb/index.m3u8?token=35ff46811e1e67a082d3d0047a9f9ce33046aefa-5097fb63d1c9de8d42016e9ccb9a1da7-1611283695-1611272895
+#EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Nickeloden
 https://pendor.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=37c967e95ff5ec8d52aa20130d7131404702aa38-67325600126e6eeca82466e8c75cbdc5-1611283716-1611272916
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", teen Nick
-https://monicaa.xyz/teennick/tracks-v1a1/mono.m3u8?token=7e98518f8ee11d24725bfd6612c46d6d0797e5ad-06d3f76de3f899653efd6e24b7eef3c6-1611327385-1611316585
-https://korty.xyz/teennick/tracks-v1a1/mono.m3u8?token=0b3d89c4f06e390cf68b9f19a68bc34f57faf838-511590ef2296cd0e3e1a8c1927d8d840-1611285169-1611274369
-https://getloti.xyz/teennick/index.m3u8?token=34b20a2e783c5277ba2dcd912ef07ac7db247e9f-b5687ad816cc91346c8f4b580d20fe73-1611285219-1611274419
+http://bolzak.xyz/teennick/tracks-v1a1/mono.m3u8?token=e34fef1d099e1e1a1b43770da1737ced4f15cbb7-8964ddff3ae13620b45dd8264893caf7-1611327598-1611316798
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", ZOOM IL
 https://melron.xyz/zoom/tracks-v1a1/mono.m3u8?token=f309080944373919a58f8f918e93b9e9cf05a043-2205f0950fe9b8ac502128883fc21b9c-1611327428-1611316628
-https://morfag.xyz/zoom/tracks-v1a1/mono.m3u8?token=7bcfbb658b2bcfe2b45390f6bb29f7a57290ec0-886e5d0c01e43f55d89d327d5d5fe56e-1611284010-1611273210
-https://pendor.xyz/zoom/tracks-v1a1/mono.m3u8?token=9d3df8978247acd5b90650caee0eea4e017668c7-eb8479d16c847c61d0c12242c57a2310-1611284087-1611273287
-https://sportyiz.xyz/zoom/index.m3u8?token=bbf6aba8964dff99ac2240652dd4c0026097dc7b-4b2302a1646942915440dc0577dba828-1611284154-1611273354
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Channel
 https://pizkek.xyz/viva/tracks-v1a1/mono.m3u8?token=109849cf3c00578cc1c1e84a2f994b875a375c6d-ffcf246a8af9a58adc72a9cda9fff70e-1611243451-1611232651
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Plus channel
