@@ -8,7 +8,8 @@ https://pendor.xyz/keshet12/tracks-v1a1/mono.m3u8?token=fed570c4048adf3c616516cb
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:0 type="video" channelId="-1" group="KIDS" audio-track="eng" aspect-ratio="16:9" size="Medium", כאן חינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Nickelodeon
+#EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Nickelode
+https://ts?token=5549a2827f82ddb02b292d9441f7c4d3395d3636-033ce704d9d97ad0a58a12b28985a62f-1611326682-1611315882
 https://getloti.xyz/nickelodeonb/index.m3u8?token=cbde87d54281887415fdf43e5c0cb1f39617adef-909a68c265500746e2d316a2b4c122f3-1611283652-1611272852
 https://colita.xyz/nickelodeonb/index.m3u8?token=35ff46811e1e67a082d3d0047a9f9ce33046aefa-5097fb63d1c9de8d42016e9ccb9a1da7-1611283695-1611272895
 https://pendor.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=37c967e95ff5ec8d52aa20130d7131404702aa38-67325600126e6eeca82466e8c75cbdc5-1611283716-1611272916
