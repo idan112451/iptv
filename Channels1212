@@ -9,11 +9,13 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 #EXTINF:0 type="video" channelId="-1" group="KIDS" audio-track="eng" aspect-ratio="16:9" size="Medium", כאן חינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Nickeloden
-https://nertov.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=e014e5608fed8b685477f24f5beb19b363f582bb-d21cc8cd5a50d49ff41ed7d83568b958-1611327975-1611317175
+https://pendor.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=983a69e806cda90533f5f9043bd7c3468c292b38-1201e588d54d0033ea7a89dc3f7a69ec-1611350087-1611339287
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", teen Nick
-http://bolzak.xyz/teennick/tracks-v1a1/mono.m3u8?token=e34fef1d099e1e1a1b43770da1737ced4f15cbb7-8964ddff3ae13620b45dd8264893caf7-1611327598-1611316798
+https://pizkek.xyz/teennick/tracks-v1a1/2021/01/22/18/18/44-05600.ts?token=75c979a28bf9a29a58e6723c0d4a6be79ae3823e-4cf731147ca456210d27f46e71f259bb-1611349994-1611339194
 #EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", ZOOM IL
-https://melron.xyz/zoom/tracks-v1a1/mono.m3u8?token=f309080944373919a58f8f918e93b9e9cf05a043-2205f0950fe9b8ac502128883fc21b9c-1611327428-1611316628
+https://pizkek.xyz/zoom/tracks-v1a1/mono.m3u8?token=80aa632ea85cd3432f40b72bd7eb36f60fd19ff3-a8988c5ebe1df46ac9ee63b2d569c221-1611350133-1611339333
+#EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", ערוץ דיסני
+https://pizkek.xyz/disney/tracks-v1a1/2021/01/22/18/21/55-07200.ts?token=85db40124ee106b823e40547c9d5ff58af561b31-384a084f641be805fa8a8a360109c2f6-1611350232-1611339432
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Channel
 https://pizkek.xyz/viva/tracks-v1a1/mono.m3u8?token=109849cf3c00578cc1c1e84a2f994b875a375c6d-ffcf246a8af9a58adc72a9cda9fff70e-1611243451-1611232651
 #EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Plus channel
