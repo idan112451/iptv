@@ -1,62 +1,88 @@
-#EXTM3U
-#EXTINF:0 type="video" channelId="-1" size="Medium", Rainbow 12 
-htts://melron.xyz/keshet12/tracks-v1a1/mono.m3u8?token=adffca7161b003d743db2b82e1944703b60b06ff-141755d6aee632491f4ab4fb2a7c38a9-1611283189-1611272389
-https://bolzak.xyz/keshet12/tracks-v1a1/mono.m3u8?token=246d53f0ce111257c60cdc31f4a88411f81d6460-ce251f75757fdb6452434970f5b68d28-1611283303-1611272503
-https://notaryz.xyz/keshet12/tracks-v1a1/mono.m3u8?token=db43311945df97e7c4a94811bd3b66a2c862b331-196d0e63afc8b04626a6b442986ad916-1611283361-1611272561
-https://pendor.xyz/keshet12/tracks-v1a1/mono.m3u8?token=fed570c4048adf3c616516cb03f015458c11e1cb-9fa69e591c87e4a77d9b153f675f4af4-1611283392-1611272592
-#EXTINF:0 type="video" channelId="-1" group="HOT" audio-track="eng" aspect-ratio="16:9" size="Medium", Network 13 
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KIDS" audio-track="eng" aspect-ratio="16:9" size="Medium", כאן חינוכית
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", Nickeloden
-https://pendor.xyz/nickelodeonb/tracks-v1a1/mono.m3u8?token=09a02bc813aaeb1c1463f0a84b06a7638143e9f7-d94dd741ad47b3561935e04d444dcac0-1611360788-1611349988
-#EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", teen Nick
-https://pizkek.xyz/teennick/tracks-v1a1/mono.m3u8?token=7a4f62aa3fd92136af3e08089327a29d83ef7b61-4f0669cbde67de2ccd74e3737f841efc-1611360134-1611349334
-#EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", ZOOM IL
-https://pizkek.xyz/zoom/tracks-v1a1/mono.m3u8?token=eab12fb74b631805a2bf1526b330eb9e100d52ef-4361a8af1f1eaac3b8b3bbc1de375b93-1611360900-1611350100
-#EXTINF:0 type="video" channelId="-1" group="KIDS" size="Medium", ערוץ דיסני
-https://pizkek.xyz/disney/tracks-v1a1/mono.m3u8?token=1baa77e77c44f168dd407f43c7597e608c0131d8-4b8c3bdedd4c618e53b29eda187e3d6f-1611354830-1611344030
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Channel
-https://pizkek.xyz/viva/tracks-v1a1/mono.m3u8?token=109849cf3c00578cc1c1e84a2f994b875a375c6d-ffcf246a8af9a58adc72a9cda9fff70e-1611243451-1611232651
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", Viva Plus channel
-https://bolzak.xyz/vivaplus/tracks-v1a1/mono.m3u8?token=9344ec94e6c5d3a387b5d147b40c8a2796029860-ed896542946cf3c821d5882a363f45db-1611163655-1611152855
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT C1
-https://pendor.xyz/hotcinema1b/tracks-v1a1/mono.m3u8?token=87cff9d62a5e04cf0c8154e6b2d2775ef537f1b6-f9a9bd9d213d8680fd0aa1748db208f6-1611250738-1611239938
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT C2
-https://pizkek.xyz/hotcinema2b/tracks-v1a1/mono.m3u8?token=d628b9a836056a66e2343dc76b6f9e92bcd36dd0-8acea5f7b25368ff10ee2828a0017246-1611250773-1611239973
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT C3
-https://pendor.xyz/hotcinema3b/tracks-v1a1/mono.m3u8?token=024cf43d3b0442c27b22220ce1fc127ca6ef30e6-de03259b23dddf618961a8c91e15cae5-1611250859-1611240059
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT C4
-https://pizkek.xyz/hotcinema4b/tracks-v1a1/mono.m3u8?token=f5e550e18c547f69dd03b8f0faff39788f5031eb-7401d5bb27846494738eb00fdd7f28d5-1611250962-1611240162
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT 8
-https://pendor.xyz/hot8b/tracks-v1a1/mono.m3u8?token=3d39c3247315e78e29c9df55a38d500718cfb4a9-06c89169e52dd2721cfcba1476a8d9eb-1611243729-1611232929
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", HOT 3
-https://pizkek.xyz/hot3b/tracks-v1a1/mono.m3u8?token=447e1f5a8f7acbb7a1f071d420db7016766d9f75-acbe43a7111a302bcb8fb01211868d72-1611243806-1611233006
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", ערוץ הוט בידור ישראלי
-https://pendor.xyz/hotbidurb/tracks-v1a1/mono.m3u8?token=1e920f42cc1457c120924a5c310efbf016e1f588-4de6f771a15cacd76ea3fd0f6bb6b822-1611243925-1611233125
-#EXTINF:0 type="video" channelId="-1" group="YES" size="Medium", IL YES
-https://pizkek.xyz/yes5/tracks-v1a1/mono.m3u8?token=8757faa203a60fb0c54dbf5ca0d80d058c68e3d3-74efe28038a1a65285c2d1bed34af70f-1611360242-1611349442
-#EXTINF:0 type="video" channelId="-1" group="YES" size="Medium"YES KIDS/טין ניק
-https://pendor.xyz/yes4/tracks-v1a1/mono.m3u8?token=f51b1037dfd8809cc5c8614032b40eabd46f7fc6-82e8ae00bbfb3b134eeae86873cc00d0-1611360416-1611349616
-#EXTINF:0 type="video" channelId="-1" group="HOT" audio-track="eng" aspect-ratio="16:9" size="Medium", 26
-https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
-#EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 1
-https://notaryz.xyz/sport1/index.m3u8?token=abf3d5c7045d13556781350a935d63085ec83bad-9bd7a851019dc3b76f1eabcb075e151a-1611181688-1611170888
-#EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 2
-https://monicaa.xyz/sport2/tracks-v1a1/mono.m3u8?token=2f5b8bc3f0a1136994c516dda2b9d30063d451cd-87021525c35d166a0ce7b9a472266243-1611181784-1611170984
-#EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 3
-https://notaryz.xyz/sport3/tracks-v1a1/mono.m3u8?token=534ab8faba663c997671abfb056a5612d18a6d61-12adb741e5a170a559684a93c9b32670-1611181865-1611171065
-#EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 4
-https://nertov.xyz/sport4/index.m3u8?token=f6a5bb8ebe73ba202aa42334410c8a5bfc41351d-e4891a874f0479a96698a35a97e4bbfa-1611181952-1611171152
-#EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 5
-https://melron.xyz/sport5/tracks-v1a1/mono.m3u8?token=f9429820a3d1f4c1018a94f5e77e189942c50cd7-7732065281e5a34d66638b70501e6563-1611181985-1611171185
-#EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 5 LIVE
-https://notaryz.xyz/sport5live/index.m3u8?token=48ba6b6a8ac4681a938e4970048db738cc6ee08e-d06a3fbfffe65e0d9d941ca09d650678-1611182152-1611171352
-#EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport 5 STARS
-https://monicaa.xyz/sport5stars/tracks-v1a1/2021/01/20/11/03/32-01400.ts?token=e66d189e9665d294e9c5ff4c03021c3291261896-2f45ca16cac7f1ccdee688c1ee49206f-1611151093-1611140293
-#EXTINF:0 type="video" channelId="-1" group="sport" size="Medium", sport ONE 1
-https://nertov.xyz/one/index.m3u8?token=3f9b2491efac06be75bd6037965a2c987cc4e41b-37979ec945a1a815db0f173fd843fb1f-1611182455-1611171655
-#EXTINF:0 type="video" channelId="-1" group="HOT" size="Medium", MTV IL
-https://korty.xyz/mtv/tracks-v1a1/mono.m3u8?token=9c35b4588df438f49664b2832e1e77d1b82c0f4b-06e6c3e9af5905fa4ef4e03d88cac89b-1611182575-1611171775
-#EXTINF:7.200,IDAN
-2021/01/22/11/50/08-07200.ts?token=5549a2827f82ddb02b292d9441f7c4d3395d3636-033ce704d9d97ad0a58a12b28985a62f-1611326682-1611315882
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/220px-Arutz_20.svg.png" group-title="ISRAEL",Channel 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/78/Ch2news_il.svg/1280px-Ch2news_il.svg.png" group-title="ISRAEL",HaHadashot 12 (Opt-1)
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/78/Ch2news_il.svg/1280px-Ch2news_il.svg.png" group-title="ISRAEL",HaHadashot 12 (Opt-2)
+http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/78/Ch2news_il.svg/1280px-Ch2news_il.svg.png" group-title="ISRAEL",HaHadashot 12 (Opt-3)
+http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4MjrEoX.png" group-title="ISRAEL",Hala TV
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNpubZW.png" group-title="ISRAEL",Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upQ7Y5A.png" group-title="ISRAEL",Kan Educational
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UStMNRW.png" group-title="ISRAEL",Keshet 12
+http://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yppLzIi.png" group-title="ISRAEL",Knesset Channel (Opt-1)
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yppLzIi.png" group-title="ISRAEL",Knesset Channel (Opt-2)
+http://146.185.61.140:1935/live/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kJLgIx.png" group-title="ISRAEL",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5K5buNw.png" group-title="ISRAEL",Reshet 13 (Opt-1)
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5K5buNw.png" group-title="ISRAEL",Reshet 13 (Opt-2)
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5K5buNw.png" group-title="ISRAEL",Reshet 13 (Opt-3)
+http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5K5buNw.png" group-title="ISRAEL",Reshet 13 (Opt-4)
+http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkhHJFM.png" group-title="ISRAEL",Shopping Channel (Opt-1)
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkhHJFM.png" group-title="ISRAEL",Shopping Channel (Opt-2)
+rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPp6BSZ.png" group-title="ISRAEL",Sport 5
+https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8
+
+#EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Shop",ch 21 ערוץ הקניות
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kan 23-IS" tvg-name="IL: Kan 23" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Kids",ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="Knesset Channel-IS" tvg-name="Knesset Channel-IS" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Legislative",ch 99 הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" tvg-country="IL" tvg-url="" group-title="News",Channel 2 News
+https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-id="Hidabroot Channel-IS" tvg-name="Hidabroot Channel-IS" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/wKi97Pg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Religious",Hidabroot
+https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Hidabroot Channel-IS" tvg-name="Hidabroot Channel-IS" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/wKi97Pg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Religious",Hidabroot
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Hidabroot Channel-IS" tvg-name="Hidabroot Channel-IS" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/wKi97Pg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Religious",Hidabroot
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" tvg-country="IL" tvg-url="" group-title="",Kabbalah for the People (Israel)
+https://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" tvg-country="IL" tvg-url="" group-title="",Kabbalah for the People (Israel)
+https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/vqfNbEU.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="",Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mikan-IS" tvg-name="כאן IL: Mikan" tvg-language="Arabic" tvg-logo="https://www.makan.org.il/images/logo_makan_33.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="General",Makan 33 מכאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" tvg-country="IL" tvg-url="" group-title="Music",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-id="Channel 13 Reshet-IS" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="General",Reshet 13 רשת
+https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
+#EXTINF:-1 tvg-id="Sport 5-IS" tvg-name="IL: Sport 5 HD" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/a/ad/Sport5ch.svg/1920px-Sport5ch.svg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Sport",Sport אתר ספורט 5
+https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/7JH43wB.jpg" tvg-country="IL" tvg-url="" group-title="",Yeshua Chai TV
+https://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="" tvg-country="IL" tvg-url="" group-title="",Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-country="IL" tvg-url="" group-title="",هلا تي في
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
